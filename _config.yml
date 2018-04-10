@@ -34,7 +34,7 @@ navigation:
     url: /feed.xml
 
 # Pagination
-paginate: 5
+paginate: 15
 
 # Includes an icon in the footer for each username you enter
 footer-links:

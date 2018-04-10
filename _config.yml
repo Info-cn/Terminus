@@ -28,6 +28,8 @@ navigation:
     url: /tags
   - name: 存档
     url: /archive
+  - name: 分类
+    url: /categories
   - name: 订阅
     url: /feed.xml
 

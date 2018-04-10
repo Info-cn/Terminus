@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 标签
-permalink: /tags/
+title: 分类
+permalink: /categories/
 ---
 
 {% if site.posts.size == 0 %}
@@ -10,7 +10,7 @@ permalink: /tags/
 
 <div class="tags">
   <ul class="label">
-    {% for tag in site.tags %}
+    {% for tag in site.categories %}
     <li>
       <a href="#{{ tag[0] }}">
         <span>{{ tag[0] }}</span>
@@ -20,7 +20,7 @@ permalink: /tags/
     {% endfor %}
   </ul>
 
-  {% for tag in site.tags %}
+  {% for tag in site.categories %}
     <h2 id="{{ tag[0] }}">
       {{ tag[0] }}
     </h2>
@@ -28,6 +28,7 @@ permalink: /tags/
       {% for post in tag[1] %}
         {% if post.title != null %}
           <li>
+            <time>{{ post.date | date: "%Y-%m-%d" }}</time>
             {% if post.link %}
               <a href="{{ post.link }}">
             {% else %}
@@ -35,7 +36,6 @@ permalink: /tags/
             {% endif %}
                 {{ post.title }}
               </a>
-              <time>{{ post.date | date: "%Y-%m-%d" }}</time>
           </li>
         {% endif %}
       {% endfor %}

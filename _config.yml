@@ -22,8 +22,6 @@ description: 离银河中心最远的行星
 navigation:
   - name: 首页
     url: /
-  - name: 关于
-    url: /about
   - name: 标签
     url: /tags
   - name: 存档
@@ -32,6 +30,8 @@ navigation:
     url: /categories
   - name: 订阅
     url: /feed.xml
+  - name: 关于
+    url: /about
 
 # Pagination
 paginate: 15

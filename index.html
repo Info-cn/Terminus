@@ -6,6 +6,7 @@ layout: default
   <h2>No post found</h2>
 {% endif %}
 
+{% if paginator.page == 1 %}
 <article class="post">
   <h2>
     <a href="sticky/2018/04/01/how-to-participate-in-terminus.html">【置顶】如何协作参与端点星计划</a>
@@ -33,6 +34,7 @@ layout: default
 
   <a href="/Terminus-dev/how-to-participate-in-terminus/" class="read-more">Read More</a>
 </article>
+{% endif%}
 
 <div class="posts">
   {% for post in paginator.posts %}

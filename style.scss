@@ -71,7 +71,7 @@ h6 {
 
 p {
   color: $text-color;
-  margin: 15px 0;
+  margin: 15px 15px;
   text-align: justify;
 }
 
@@ -104,7 +104,7 @@ sup {
 
 hr {
   border: 0;
-  border-top: 1px solid $divider-color;
+  border-top: 2px solid $divider-color;
   margin: 1.5em auto;
 }
 
@@ -149,7 +149,7 @@ ol {
 
 ol, ul {
   > li {
-    margin: 0 auto $li-bottom-space $li-bullets-width;
+    margin: 0 auto $li-bottom-space 2em;
     line-height: $li-line-height;
 
     > ol,
@@ -215,8 +215,8 @@ tbody tr:nth-child(odd) th {
 // Blockquote
 blockquote {
   font-weight: 300;
-  padding: 0 0 0 1.4rem;
-  margin: 0 2rem 1rem 0;
+  padding: 0 0 0 .5rem;
+  margin: 0 1.0rem 1rem 0.5rem;
   border-left: .2em solid $blockquote-border-color;
   text-align: justify;
 

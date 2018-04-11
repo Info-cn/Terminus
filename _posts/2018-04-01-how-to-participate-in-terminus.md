@@ -9,13 +9,13 @@ description: Terminus 端点星计划，是在 GitHub 开放平台搭建的一�
 
 ## 端点星计划是什么
 
-Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像[中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)-[自由微博](https://freeweibo.com/)&[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com)这样的网站做文章备份，但不便于墙内网络传播。
+Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像 [中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)、[自由微博](https://freeweibo.com/)、[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com) 这样的网站做文章备份，但不便于墙内网络传播。
 
-从2018年1月至今，端点星网站已有43篇文章备份，以微信平台围绕社会热点事件的被删文章为主。尤其在4月份近期，有关沈阳事件、武汉理工的新闻报道、评论、倡议行动文章不断被删。
+从 2018 年 1 月至今，端点星网站已有 43 篇文章备份，以微信平台围绕社会热点事件的被删文章为主。尤其在 4 月份近期，有关沈阳事件、武汉理工的新闻报道、评论、倡议行动文章不断被删。
 
 ## 抵抗404，需要公众参与新方法
 
-在严重依赖微信、朋友圈的情况下，抵抗404，保证文章传播阅读的持久有效性，现在比较常见的方法有：
+在严重依赖微信、朋友圈的情况下，抵抗 404，保证文章传播阅读的持久有效性，现在比较常见的方法有：
 
 - 订阅号菜单栏的非正式群发
 - 订阅号小号
@@ -33,35 +33,40 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 ### 需要的基本技能
 
 - 熟悉使用 Markdown 基本标记语法
-- 熟悉 Markdown 文本编辑器：这两个工具适用于对 Markdown 语法不熟悉的协作者
+- 熟悉 Markdown 文本编辑器（可选项）：这两个工具适用于对 Markdown 语法不熟悉的协作者
   - [MarkdownPad](http://markdownpad.com/)
   - [Atom](https://atom.io/)
 - 熟悉 GitHub 平台使用（可选项）
 
 ### 协作步骤说明
 
-1. 注册并登录 GitHub 帐号
+1. 注册并登录 [GitHub](https://github.com/) 帐号
 
-2. 访问[端点星计划](https://github.com/Info-cn/Terminus)GitHub页面，点击进入[_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
+2. 访问 [端点星计划](https://github.com/Info-cn/Terminus) GitHub页面，点击进入 [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
     ![step3](https://i.imgur.com/JSTxYEj.png)
 
     - 第一种：点击 **Create new file** 在线编辑
+
     ![step3-1](https://i.imgur.com/gvRxBfm.png)
+
       1. 文件命名：在 _posts/ 后面的框内输入文件名及后缀，以`2018-01-01-biao-ti.md`的格式
       2. 在下方 Edit new file 空白区区以 markdown 编辑文章
       3. 点击 Preview 可预览效果
 
     - 第二种：**Upload files**
+
     ![step3-2](https://i.imgur.com/tPU5I3q.png)
+
       1. 点击 Upload files
       2. 从本地将编辑好的 markdown 格式备份文档上传
 
 4. 提交 **commit changes**
 
-    经过步骤 3，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么
+    在下方填写 commit changes ，简单说明提交的修改是什么
+
     ![step4](https://i.imgur.com/Ed5t4w3.png)
 
 5. 创建 **pull request** 请求
@@ -73,14 +78,17 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 6. 编辑 pull 请求
 
     点击 **Create pull request** 之后，在新的页面 **open a pull request** 编辑请求说明
+
     ![step6-1](https://i.imgur.com/Etexqop.png)
 
     检查分支与 master 是否存在冲突，若无冲突，则可以合并，经创建者同意，可把分支新增内容加入到 master 主项目中。
 
     如下图，显示 **This branch has no conflicts with the base branch**，则表示提交的分支请求和 master 无冲突。
+
     ![step6-2](https://i.imgur.com/ochMeTR.png)
 
 7. 合并请求同意后，会显示紫色
+
     ![step7](https://i.imgur.com/MFRdDLK.png)
 
 ### 协作的文档编辑格式要求

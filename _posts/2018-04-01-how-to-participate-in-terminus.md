@@ -48,23 +48,23 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
-    ![Selection_013](https://i.imgur.com/JSTxYEj.png)
+    ![step3](https://i.imgur.com/JSTxYEj.png)
 
     - 第一种：点击 **Create new file** 在线编辑
-    ![Selection_014](https://i.imgur.com/gvRxBfm.png)
+    ![step3-1](https://i.imgur.com/gvRxBfm.png)
       1. 文件命名：在 _posts/ 后面的框内输入文件名及后缀，以`2018-01-01-biao-ti.md`的格式
       2. 在下方 Edit new file 空白区区以 markdown 编辑文章
       3. 点击 Preview 可预览效果
 
     - 第二种：**Upload files**
-    ![Selection_015](https://i.imgur.com/tPU5I3q.png)
+    ![step3-2](https://i.imgur.com/tPU5I3q.png)
       1. 点击 Upload files
       2. 从本地将编辑好的 markdown 格式备份文档上传
 
 4. 提交 **commit changes**
 
-    经过步骤 6，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么
-    ![Selection_016](https://i.imgur.com/Ed5t4w3.png)
+    经过步骤 3，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么
+    ![step4](https://i.imgur.com/Ed5t4w3.png)
 
 5. 创建 **pull request** 请求
 
@@ -75,15 +75,15 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 6. 编辑 pull 请求
 
     点击 **Create pull request** 之后，在新的页面 **open a pull request** 编辑请求说明
-    ![Selection_020](https://i.imgur.com/Etexqop.png)
+    ![step6-1](https://i.imgur.com/Etexqop.png)
 
     检查分支与 master 是否存在冲突，若无冲突，则可以合并，经创建者同意，可把分支新增内容加入到 master 主项目中。
 
     如下图，显示 **This branch has no conflicts with the base branch**，则表示提交的分支请求和 master 无冲突。
-    ![Selection_021](https://i.imgur.com/ochMeTR.png)
+    ![step6-2](https://i.imgur.com/ochMeTR.png)
 
 7. 合并请求同意后，会显示紫色
-    ![Selection_022](https://i.imgur.com/MFRdDLK.png)
+    ![step7](https://i.imgur.com/MFRdDLK.png)
 
 ### 协作的文档编辑格式要求
 
@@ -100,7 +100,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     ---
     ```
 
-    需要修改的是 title、date、tags、description。
+    需要修改的是 title、date、tags、description .
 
 2. 正文前面需要注明文章出处及作者，前后用 `---`符号与上下隔开。如下：
 

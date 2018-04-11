@@ -41,7 +41,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 2. 访问端点星计划页面
 
-    <https://info-cn.github.io/Terminus>
+    <https://github.com/Info-cn/Terminus>
 
 3. 创建一个分支
 

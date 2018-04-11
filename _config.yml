@@ -71,8 +71,8 @@ baseurl: /terminus-dev
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
-paginate_path: /page:num/
+# permalink: /:title/
+# paginate_path: /page:num/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0

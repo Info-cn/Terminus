@@ -15,7 +15,7 @@
         {% if nav.url contains 'http://' or nav.url contains 'https://' %}
         <a href="{{ nav.url }}">{{ nav.name }}</a>
         {% else %}
-        <a href="{{ site.baseurl }}{{ nav.url }}">{{ nav.name }}</a>
+        <a href="{{ site.baseurl }}{{ nav.url }}" style="margin-left: 5px;margin-right: 5px;">{{ nav.name }}</a>
         {% endif %}
         {% endfor %}
       </nav>

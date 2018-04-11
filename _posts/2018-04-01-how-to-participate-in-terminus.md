@@ -9,7 +9,7 @@ description: Terminus 端点星计划，是在 GitHub 开放平台搭建的一�
 
 ## 端点星计划是什么
 
-Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像[中国数字时代](https://chinadigitaltimes.net/chinese/)这样的网站做文章备份，但不便于墙内网络传播。
+Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用于备份微信、微博等平台被删文章。防火墙外也有像[中国数字时代](https://chinadigitaltimes.net/chinese/)、[GreatFire](https://zh.greatfire.org/)-[自由微博](https://freeweibo.com/)&[自由微信](https://freewechat.com/)、[墙与书](https://wallsandbooks.wordpress.com)这样的网站做文章备份，但不便于墙内网络传播。
 
 从2018年1月至今，端点星网站已有43篇文章备份，以微信平台围绕社会热点事件的被删文章为主。尤其在4月份近期，有关沈阳事件、武汉理工的新闻报道、评论、倡议行动文章不断被删。
 
@@ -33,7 +33,10 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 ### 需要的基本技能
 
 - 熟悉使用 Markdown 基本标记语法
-- 熟悉 GitHub 平台使用
+- 熟悉 Markdown 文本编辑器：这两个工具适用于对 Markdown 语法不熟悉的协作者
+  - [MarkdownPad](http://markdownpad.com/)
+  - [Atom](https://atom.io/)
+- 熟悉 GitHub 平台使用（可选项）
 
 ### 协作步骤说明
 

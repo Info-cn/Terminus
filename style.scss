@@ -72,6 +72,7 @@ h6 {
 p {
   color: $text-color;
   margin: 15px 0;
+  text-align: justify;
 }
 
 a {
@@ -217,9 +218,11 @@ blockquote {
   padding: 0 0 0 1.4rem;
   margin: 0 2rem 1rem 0;
   border-left: .2em solid $blockquote-border-color;
+  text-align: justify;
 
   p {
     color: $blockquote-color;
+   
   }
 
   p:last-child {
@@ -260,6 +263,7 @@ img {
   max-width: 100%;
   margin: 0 0 1em;
   border-radius: 5px;
+  text-align: center;
 }
 
 // Fixes images in popup boxes from Google Translate

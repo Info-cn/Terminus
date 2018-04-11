@@ -4,7 +4,7 @@ title:  "永远的江 Sir：纪念江绪林老师"
 date:   2018-02-22 18:49 +0800
 categories: Archive
 tags: 江绪林
-description:
+description: “愿你安息。我的老师，我的弟兄，我的江 Sir。”
 ---
 
 作者：樊超群

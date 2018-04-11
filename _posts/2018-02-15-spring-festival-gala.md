@@ -9,7 +9,7 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 > 文章来源：微信订阅号「土豆公社」：~~[中国大妈与非洲猴子：国产精英的种族主义登堂入室了](https://mp.weixin.qq.com/s/MU-FnAb7PV8dnVu0F6F5Fw)~~
 >
-> 作者：大兔
+> 作者：大兔，编辑：小蛮妖
 
 <div style="text-align:center">
 <img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-00.jpg" alt="">
@@ -17,8 +17,6 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 <br/>
 
 > 不平于自己的民族被白人社会歧视，但同时也骄傲地歧视其他种族。
-
-作者 | 大兔，编辑 | 小蛮妖
 
 相信不少读者在除夕之夜观看了郑恺饰演的小品《同喜同乐》。小品里众多涉嫌种族主义的情节引发了很多朋友的吐槽。
 

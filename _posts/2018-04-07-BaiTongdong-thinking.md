@@ -4,7 +4,7 @@ title:  关于沈阳事件的几点思考
 date:   2018-04-07
 categories: Archive
 tags: 高岩之死
-description:
+description: 前两天那些文章被404，是谁干的?
 ---
 
 来源：微信公众号“白彤东” ，作者：白彤东，原文已被删

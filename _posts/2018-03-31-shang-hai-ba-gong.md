@@ -4,7 +4,7 @@ title:  "是他们离不开城市，还是城市离不开他们？"
 date:   2018-03-31
 categories: Archive
 tags: 上海环卫工人罢工
-description: “长宁环卫工人罢工已经是第五天了。”
+description: 长宁环卫工人罢工已经是第五天了。
 ---
 
 作者红雨青山，微信原文~~[链接](https://mp.weixin.qq.com/s/pCcd445i4E3GkPTbuGq0eA)~~，图片已丢失。

@@ -4,7 +4,7 @@ title:  南大文学院、上师大回应沈阳事件
 date:   2018-04-07
 categories: Archive
 tags: 高岩之死
-description:
+description: 南大文学院回应“教授沈阳事件”：其不符教书育人工作的要求
 ---
 
 [南京大学文学院通告](http://chin.nju.edu.cn/shownews1702.html) （ 网页备份：[https://archive.is/oVOiS](https://archive.is/oVOiS) ）

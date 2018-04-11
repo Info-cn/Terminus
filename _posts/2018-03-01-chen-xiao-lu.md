@@ -4,7 +4,7 @@ title:  "陈小鲁自述这一生：从红卫兵、军官、驻外武官到商�
 date:   2018-03-01 +0800
 categories: Archive
 tags: 陈小鲁
-description:
+description: 是非成败转头空。至于他的历史，就留待时间去抒写和评价吧。
 ---
 
 By 猛的号，微信号 mg221x

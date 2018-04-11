@@ -4,30 +4,24 @@ title:  "李沉简：挺直脊梁 拒做犬儒（北大一二〇纪念）"
 date:   2018-03-22
 categories: Archive
 tags: 李沉简
-description: 3 月 22 日，传闻北京大学元培学院常务副院长李沉简发送文章《挺直脊梁 拒做犬儒》后辞职，通识副院长张旭东、院长鄂维南一并辞职（知乎网友指出李沉简、张旭东早在二月底的内部会议上辞职）。3 月 22 日下午 6:00 公众号「大帅直通车」推送文章，6:40 公众号被要求关闭，院内老师以微信语音、打电话等方式要求学生删除转发文章。
+description: 我们即使做不到振臂一呼，以笔为旗与懦弱卑微做不妥协的抗争，也至少做到不出卖人的起码尊严和思想独立。
 ---
 
 原文链接：~~[挺直脊梁 拒做犬儒](https://mp.weixin.qq.com/s/MFAzUPIRfusw-SHvdWH3Ug)~~
 
 ---
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/01.jpg" alt="蔡元培先生">
-<br/>
-蔡元培先生
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/01.jpg "center"){: .center-image}
+
+<center>蔡元培先生</center>
 
 戊戌变法、北大建校一百二十年，我们纪念蔡元培校长。在中国近代史上，元培先生当之无愧是现代教育之父。他留给我们的“兼容并包，思想自由”是北大的精神火炬，代代相传。蔡校长在人们的印象里总是一个谦谦君子式的思想领袖。其实蔡校长的另外一个侧面同样是万世师表，那就是一个挺直脊梁、拒绝做犬儒的男子汉。
 
 早年的元培先生为了反抗清朝，一介书生却豁出命来组织训练暗杀团，意图刺杀清朝的官员。在后面的几十年里，他只认真理，不畏强权，在北大校长的任上曾先后八次辞职以示抗议：1917年抗议张勋复辟清朝而辞职；1919年5月营救被捕学生而辞职；1919年底和1920年1月支持北京市教职员为薪酬抗议政府而辞职；1922年8月/9月两次为政府侮辱校长/拖欠教育经费而辞职；1923年抗议教育总长践踏人权和司法独立而辞职；1926年抗议政府镇压学生而辞职。 从这个意义上看，元培先生的“兼容并包，思想自由”是付出了极大的个人牺牲才使得当时的北大空前活跃—既有全盘西化的胡适、也有追求共产主义的陈独秀李大钊毛泽东、甚至还有天天嚷着复辟清朝的拖辫子的辜鸿铭。各种思想在这里产生和碰撞。
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/02.jpg" alt="蔡元培先生">
-<br/>
-蔡元培先生
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/02.jpg "center"){: .center-image}
+
+<center>蔡元培先生</center>
 
 Freedom is never free. 自由从来不是天上掉下来的，而是有骨气的人们付出沉重的代价换来的，其中北大的先人多有这样的典范：胡适一辈子敢于批评蒋介石和国民党专制；马寅初坚持自己的学术观点，在批判之下拒不认错；林昭在疯狂的文革年代毫不退缩，只身和反人类的罪恶斗争到底，直至被枪杀。北大之所以成为中国神圣的殿堂，不仅因为她有思想，更因为她有为了理念不惜付出一切的师生。
 

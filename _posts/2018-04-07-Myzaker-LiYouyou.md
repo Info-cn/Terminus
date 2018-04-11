@@ -4,7 +4,7 @@ title:  现代快报独家对话举报人李悠悠：已联系到受沈阳侵害
 date:   2018-04-07
 categories: Archive
 tags: 高岩之死
-description:
+description: 此时那边是深夜，她十分坦诚地讲述了为何会在 20 年后的今天通过网络对沈阳进行举报，并透露已联系到其他几位受沈阳侵害的女生。
 ---
 
 出自 [现代快报快讯](https://app.myzaker.com/news/article.php?pk=5ac8976b1bc8e0407f0001d4)

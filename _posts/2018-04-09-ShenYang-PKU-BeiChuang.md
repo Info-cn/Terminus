@@ -10,7 +10,7 @@ categories: Archive
 
 tags: 沈阳
 
-description:
+description: 这是北大建校的第120个年头。与以往“校庆年”不同的是，时隔二十年的沉重质问挟金石之声而来，轻歌雅舞再也遮不住。
 
 ---
 

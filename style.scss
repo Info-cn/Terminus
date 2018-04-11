@@ -261,9 +261,9 @@ a.footnote {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1em;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 5px;
-  text-align: center;
 }
 
 // Fixes images in popup boxes from Google Translate

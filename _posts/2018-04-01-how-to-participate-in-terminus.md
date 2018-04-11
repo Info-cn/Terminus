@@ -40,76 +40,49 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 ### 协作步骤说明
 
-1. 登录你的 GitHub 帐号
+1. 注册并登录 GitHub 帐号
 
-2. 访问端点星计划页面
+2. 访问端点星计划页面，点击进入 `_posts` 文件夹
 
-    <https://github.com/Info-cn/Terminus>
+    [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹里的 markdown 文档就是每篇备份文章。
 
-3. 创建一个分支
-
-    点击 Branch, 在下方的输入框中输入一个新的分支名，例如 xxx, 点击`Create Branch:xxx` 创建。
-
-    ![Selection_012](https://i.imgur.com/q9fKgd5.png)
-
-4. 切换到 xxx 分支。此时，可以看到 Branch 位置显示的是分支名。
-
-5. 点击进入 `_posts` 文件夹
-
-    _posts 文件夹里的 markdown 文档就是每篇备份文章。
-
-6. 两种方式创建备份文章的 markdown 文档
+3. 创建备份文章的 markdown 文档，有两种方式
 
     ![Selection_013](https://i.imgur.com/JSTxYEj.png)
 
-    <br>
-    第一种：点击 **Create new file** 在线编辑
-
+    - 第一种：点击 **Create new file** 在线编辑
     ![Selection_014](https://i.imgur.com/gvRxBfm.png)
-      1. 文件命名：在 _posts/ 后面的框内输入文件名及后缀，以“日期-xx.md”的格式，如`2018-04-10-fen-zhi.md`
+      1. 文件命名：在 _posts/ 后面的框内输入文件名及后缀，以`2018-01-01-biao-ti.md`的格式
       2. 在下方 Edit new file 空白区区以 markdown 编辑文章
       3. 点击 Preview 可预览效果
 
-    <br>
-    第二种：**Upload files**
-
+    - 第二种：**Upload files**
     ![Selection_015](https://i.imgur.com/tPU5I3q.png)
       1. 点击 Upload files
       2. 从本地将编辑好的 markdown 格式备份文档上传
 
-7. 提交 **commit changes**
+4. 提交 **commit changes**
 
-    经过步骤 6，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么。
-
+    经过步骤 6，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么
     ![Selection_016](https://i.imgur.com/Ed5t4w3.png)
 
-8. 提交 **pull request** 请求
+5. 创建 **pull request** 请求
 
-    将刚才新建并进行的分支修改提交到 master 主项目，发起合并请求
-    点击 **Pull requests**，再点击 **New pull request**。
+    点击 **Creat Pull requests**，将刚才新建并进行的分支修改提交到 master 主项目，发起合并请求
 
-    ![Selection_017](https://i.imgur.com/1bOLgop.png)
+    ![step5](https://i.loli.net/2018/04/11/5acdcba0a3813.png)
 
-9. 选择 master 和 你的分支进行对比，变化的文件数也会显示，修改的地方会在下面高亮显示
-    ![Selection_019](https://i.imgur.com/zOgFhN8.png)
-
-10. 创建一个请求
-
-    在 **Comparing changes** 页面，点击 **Create pull request**
-
-11. 编辑 pull 请求
+6. 编辑 pull 请求
 
     点击 **Create pull request** 之后，在新的页面 **open a pull request** 编辑请求说明
     ![Selection_020](https://i.imgur.com/Etexqop.png)
 
-12. 检查分支与 master 是否存在冲突，若无冲突，则可以合并，经创建者同意，可把分支新增内容加入到 master 主项目中。
+    检查分支与 master 是否存在冲突，若无冲突，则可以合并，经创建者同意，可把分支新增内容加入到 master 主项目中。
 
     如下图，显示 **This branch has no conflicts with the base branch**，则表示提交的分支请求和 master 无冲突。
-
     ![Selection_021](https://i.imgur.com/ochMeTR.png)
 
-13. 合并请求同意后，会显示紫色。
-
+7. 合并请求同意后，会显示紫色
     ![Selection_022](https://i.imgur.com/MFRdDLK.png)
 
 ### 协作的文档编辑格式要求
@@ -118,23 +91,16 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
     ```
     ---
-
     layout: post
-
     title:  一女生实名指控曾受沈阳性骚扰
-
     date:   2018-04-09
-
     categories: Archive
-
     tags: 沈阳
-
-    description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来
-
+    description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来。
     ---
     ```
 
-    需要修改的是 title、date、tags、description(可有可无)。
+    需要修改的是 title、date、tags、description。
 
 2. 正文前面需要注明文章出处及作者，前后用 `---`符号与上下隔开。如下：
 
@@ -147,6 +113,12 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     ---
     ```
 
-3. 正文小标题，使用 h2、h3 或直接加粗
+3. 正文小标题，使用 h2 或 h3。
 
-4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。
+4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。图片居中
+
+    ```
+      ![]("图片链接" "center"){: .center-image}
+
+      <center>图片说明</center>
+    ```

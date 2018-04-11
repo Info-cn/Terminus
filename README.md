@@ -71,20 +71,13 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     经过步骤 6，就已经在线编辑好或上传了备份文章，现在需要在下方填写 commit changes ，简单说明提交的修改是什么
     ![Selection_016](https://i.imgur.com/Ed5t4w3.png)
 
-5. 提交 **pull request** 请求
+5. 创建 **pull request** 请求
 
-    将刚才新建并进行的分支修改提交到 master 主项目，发起合并请求
-    点击 **Pull requests**，再点击 **New pull request**
-    ![Selection_017](https://i.imgur.com/1bOLgop.png)
+    点击 **Creat Pull requests**，将刚才新建并进行的分支修改提交到 master 主项目，发起合并请求
 
-6. 创建一个合并请求
+    ![step5](https://i.loli.net/2018/04/11/5acdcba0a3813.png)
 
-    选择 master 和 你的分支进行对比，变化的文件数也会显示，修改的地方会在下面高亮显示
-    ![Selection_019](https://i.imgur.com/zOgFhN8.png)
-
-    在 **Comparing changes** 页面，点击 **Create pull request**
-
-7. 编辑 pull 请求
+6. 编辑 pull 请求
 
     点击 **Create pull request** 之后，在新的页面 **open a pull request** 编辑请求说明
     ![Selection_020](https://i.imgur.com/Etexqop.png)
@@ -94,7 +87,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     如下图，显示 **This branch has no conflicts with the base branch**，则表示提交的分支请求和 master 无冲突。
     ![Selection_021](https://i.imgur.com/ochMeTR.png)
 
-8. 合并请求同意后，会显示紫色
+7. 合并请求同意后，会显示紫色
     ![Selection_022](https://i.imgur.com/MFRdDLK.png)
 
 ### 协作的文档编辑格式要求
@@ -103,19 +96,12 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
     ```
     ---
-
     layout: post
-
     title:  一女生实名指控曾受沈阳性骚扰
-
     date:   2018-04-09
-
     categories: Archive
-
     tags: 沈阳
-
-    description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来
-
+    description: 这位女生名叫许红云，她希望更多被沈阳侵扰的女生勇敢地站出来，勇敢地面对过去和现在，才能看到未来。
     ---
     ```
 
@@ -132,6 +118,12 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     ---
     ```
 
-3. 正文小标题，使用 h2、h3 或直接加粗
+3. 正文小标题，使用 h2 或 h3。
 
-4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。
+4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。图片居中
+
+    ```
+      ![]("图片链接" "center"){: .center-image}
+
+      <center>图片说明</center>
+    ```

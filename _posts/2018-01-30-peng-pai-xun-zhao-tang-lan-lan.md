@@ -4,7 +4,7 @@ title:  寻找汤兰兰：少女称遭亲友性侵，11 人入狱多年其人 �
 date:   2018-01-30
 categories: Archive
 tags: 汤兰兰
-description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化名）向黑龙江五大连池市龙镇警方写了一封举报信，称其从 7 岁起被父亲、爷爷、叔叔、姑父、老师、村主任、乡邻等十余人强奸、轮奸，前后已有 7 年。当月底，3 天内村里 16 人被抓。4 年后，包括其父母在内的 11 人获刑，罪涉强奸罪、嫖宿幼女罪，其父母还被判强迫卖淫罪。2017 年 6 月，服刑 8 年零 8 个月后，其母万秀玲出狱。她想找到女儿，还原当年事态。而汤兰兰却 “人间蒸发” 在户口本上消失了。直到今年 1 月，她才查询到女儿已改名迁户。早在一审判决时，11 名被告人曾集体上诉，他们均否认全部犯罪事实，但二审法院在 2012 年底裁定：驳回上诉，维持原判。如今涉案家属仍在申诉，他们等待着汤兰兰的出现。
+description: 因为这篇文章，澎湃被骂惨了。
 ---
 
 作者：澎湃新闻记者 王乐
@@ -55,12 +55,8 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 付建称，2018 年 1 月 30 日下午，最高检两位工作人员约见了该案律师及两位当事人，双方就申诉一事进行了两个多小时的面谈。律师随后将会提交进一步的证据材料。
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-01.jpg" alt="2018 年 1 月，汤玉梅向最高院第二巡回法庭为丈夫刘长海递交申诉书。刘长海至今拒绝减刑，坚持申诉。受访者供图。">
-<br/>
-2018 年 1 月，汤玉梅向最高院第二巡回法庭为丈夫刘长海递交申诉书。<br/>刘长海至今拒绝减刑，坚持申诉。受访者供图。
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-01.jpg "center"){: .center-image}
+<center>2018 年 1 月，汤玉梅向最高院第二巡回法庭为丈夫刘长海递交申诉书。<br/>刘长海至今拒绝减刑，坚持申诉。受访者供图。</center>
 
 ### 少女的控诉：被亲生父母性侵，请干爸干妈申冤
 
@@ -86,12 +82,8 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 这封控告信亦被法院采纳。
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-02.jpg" alt="汤兰兰交给警方的举报信。受访者供图">
-<br/>
-汤兰兰交给警方的举报信。受访者供图
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-02.jpg "center"){: .center-image}
+<center>汤兰兰交给警方的举报信。受访者供图</center>
 
 “王凤朝和李忠云何时得知被害人被强奸，二人说法不一。” 汤家的申诉律师付建说。在他看来，“到底是如何引发的报案? 这正是此案的要点所在。”
 
@@ -119,12 +111,9 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 物证提取笔录显示，报案后的第 19 天，警方在万秀玲家中，从她衣服口袋里提取到一份 B 超单，姓名、日期、医院与上述相同。但诊断结果为，“子宫内有胎儿症状。”
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-03.jpg" alt="案卷中收录的其中一份 B 超单。（手写部分为律师阅卷时批注）受访者供图">
-<br/>
-案卷中收录的其中一份 B 超单。（手写部分为律师阅卷时批注）受访者供图
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-03.jpg "center"){: .center-image}
+
+<center>案卷中收录的其中一份 B 超单。（手写部分为律师阅卷时批注）受访者供图</center>
 
 王丹阳称，在该案庭审期间，控辩双方对抗非常激烈，多位辩护律师都对 “怀孕” 一事提出质疑。“‘怀孕’是重大案情，这直接指向女孩报案的起因。”王丹阳说。
 
@@ -152,12 +141,9 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 2018 年 1 月 28 日，澎湃新闻联系到了当年该案的侦办人员之一贾德春以核实上述说法，对方拒绝接受采访。
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-04.jpg" alt="2006 年春天，万秀玲 (左) 抱着小儿子与女儿汤兰兰 (右) 合影。当日是汤兰兰的叔叔汤继彬的婚礼，两年后，汤兰兰向公安举报汤继彬对其强奸。受访者供图">
-<br/>
-2006 年春天，万秀玲 (左) 抱着小儿子与女儿汤兰兰 (右) 合影。当日是汤兰兰的叔叔汤继彬的婚礼，两年后，汤兰兰向公安举报汤继彬对其强奸。受访者供图
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-04.jpg "center"){: .center-image}
+
+<center>2006 年春天，万秀玲 (左) 抱着小儿子与女儿汤兰兰 (右) 合影。<br/>当日是汤兰兰的叔叔汤继彬的婚礼，两年后，汤兰兰向公安举报汤继彬对其强奸。<br/>受访者供图</center>
 
 ### 要钱电话：“拿完一万块钱，就不逮他了”
 
@@ -225,12 +211,9 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 现在汤玉的户口已从农业户变为城镇户，“这是户政科特批的”，王警官说，“为什么要改名字? 为什么要从小兴安迁这来? 她的一切都是她找户政科安排的。”
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-05.jpg" alt="青山派出所提供的汤玉的户籍信息。澎湃新闻记者 王乐 图">
-<br/>
-青山派出所提供的汤玉的户籍信息。澎湃新闻记者 王乐 图
-</div>
-<br />
+![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-05.jpg "center"){: .center-image}
+
+<center>青山派出所提供的汤玉的户籍信息。澎湃新闻记者 王乐 图</center>
 
 汤玉户籍上的住址为青山街 21 居民委，如今居民委的划分早已撤销，该片区已划入天鹅社区。而天鹅社区的常住人口系统中，却查无汤玉其人。
 
@@ -250,4 +233,4 @@ description: 2008 年 10 月 3 日，正读初一的 14 岁少女汤兰兰（化
 
 涉案家属们仍在申诉，他们等待着汤兰兰的出现。
 
-而汤玉(汤兰兰)去哪了呢?
+而汤玉（汤兰兰）去哪了呢?

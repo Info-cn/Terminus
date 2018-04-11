@@ -13,24 +13,19 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 
 ![昌平区定幅皇庄路](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/01-dingfuhuangzhuangRd.jpg)
 
-> 作者 | 阿七
+> 作者：阿七
 
 “青年朋友们，当务之急，是停下观望屏幕另一端他者的苦难，到现场去……”2017 年 11 月 25 日晚，雀跃（化名）在电脑前写下一封 700 多字的倡议信。这个刚从校园步入社会的青年想搭建一个 “合作伙伴网络”，让大家 “结伴到达这些身边的小区，探访了解实地的情况，将求助者对接给专业援助机构”。
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/02-changyixin.jpg" alt="倡议信截图">
-<br/>
-倡议信截图
-</div>
-<br />
+![倡议信截图](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/02-changyixin.jpg "center"){: .center-image}
+
 这一切缘于 2017 年 11 月 18 日北京大兴区新建村一场火灾。这场由电线故障引起的大火不仅导致 19 人死亡，还成了北京 “进一步疏解人口” 的导火索。11·18 大兴大火后不到 48 小时，北京市政府宣布开展为期 40 天 “安全隐患大排查大清理大整治专项行动”。大批公寓将在短期内被拆迁，租客被要求在短短数天内搬离，以外来打工者为主的公寓租客无奈流离失所。
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/03-1128xinjiancun.jpg" alt="新建村">拆除中的新建村 拍摄于 11 月 28 日上午
 </div>
-<br />
 
-**除了围观，我们还能做一点什么**
+### 除了围观，我们还能做一点什么
 
 除了围观，我们还能做一点什么？在昌平安家不久的江苏人鸟哥首先回答了这个问题。11 月 23 日，鸟哥通过 “天鹅救援队” 微信公众号发布了一篇文章，文章表明天鹅救援队将义务帮助因 “被清理” 的人们搬家。
 
@@ -51,7 +46,6 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/04-rescue-info.jpg" alt="救援信息汇总文档">救援信息汇总文档
 </div>
-<br />
 
 郝南是这份文档其中一位编辑者，他同时也是一家灾害救援信息收集类 NGO 的负责人。
 
@@ -62,9 +56,8 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/01-dingfuhuangzhuangRd.jpg" alt="北京昌平区定福皇庄路上标语">北京昌平区定福皇庄路上标语
 </div>
-<br />
 
-**折叠的北京 不通的圈子 **
+### 折叠的北京 不通的圈子
 
 对于郝南来说，要把救援信息传播到现场有需求的人来说并不难。郝南试过联系北京工友之家、北京协作者等公益组织，让他们把救援信息在工友的社群里面传播开。**但郝南发现，信息哪怕传播出去，得到的求助反馈也不多。**
 
@@ -73,7 +66,6 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/05-tengtui.jpg" alt="北京一所宾馆门前贴着腾退通知">北京一所宾馆门前贴着腾退通知
 </div>
-<br />
 
 “我也发现了，一些工人其实不需要我们帮忙，他们自己可以解决。” 雀跃说。郝南认为这种 “不需要” 更多来源于 “我们之间的隔离，他们不信任”。郝南补充：**“外卖、快递、家政这些人，虽然我们几乎每天都跟他们打交道，但真有困难的时候，我们连接不起来。”**“我们努力做了很多，但真的靠我们努力解决不了的…… 这是一个社会结构问题，我们只能等待……”
 
@@ -92,7 +84,7 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 </div>
 <br />
 
-**“围观” 还能带来改变吗？**
+### “围观” 还能带来改变吗？
 
 北京的大一学生青桐，在豆瓣看到雀跃的倡议信后，加入到雀跃发起的 “Beijing，Solidarity”（北京团结）群。正如群名一样，群主想凝聚更多有行动力的人。
 
@@ -111,18 +103,16 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/07-1127picun.jpg" alt="11月27日皮村">皮村 11 月 27 日当天更换新的通知（图片来源于网络）
 </div>
-<br />
 
 就在第二天，媒体报道北京市市长蔡奇强调 “专项整治要坚定有序要有人文关怀”。
 
-**“不可抗力”**
+### “不可抗力”
 
 有媒体也在观察这场救援。好奇心日报 12 月 1 日发出文章《临时凑起来的一群热心人，拥有最多的可能只是热情》。文章作者最后指出：“当热情的人们想要动员更多力量支援清退人员时，不论是志愿者，还是 NGO，或者就是临时凑起来的一群热心人，他们拥有最多的只是热情。让他们能够完成一些事的根基是社会，但问题是，现在并没有社会。” 文章作者并没有说明 “社会” 是指什么。
 
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/08-shuihuschool.jpg" alt="水浒学校">回龙观镇西半壁店村的水浒学校已被拆
 </div>
-<br />
 
 “同舟家园” 并不是临时凑起来的热心人，它是已经成立一年左右社区机构。根据同舟家园微信公众号介绍，同舟家园位于北京五环外的马驹桥，是一家主要面向基层工友的的 “公益互助平台”，口号为 “互帮互助、同舟同行”。11 月 24 日中午，同舟家园发出了义务救援信息。不到 24 小时，警察便出现在了同舟家园门口。
 
@@ -141,8 +131,7 @@ description: 11·18 大兴大火后，上演了 40 天「安全隐患大排查�
 <div style="text-align:center">
 <img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/09-wechat-sensitiveword.jpg" alt="低端人口敏感词">“DD 人口” 从此成为微信的敏感词
 </div>
-<br />
 
+**鸟哥、雀跃、薇薇、青桐均为化名**
 
-*鸟哥、雀跃、薇薇、青桐均为化名
-如无特别说明，拍摄均为阿七*
+**如无特别说明，拍摄均为阿七**

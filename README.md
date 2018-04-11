@@ -5,7 +5,7 @@
 
 ### 建站程序版权
 
-本站建站程序来源于 [kiko-now](https://github.com/AWEEKJ/kiko-now)。博客模板文件版权继承并遵循 MIT License。
+本站建站程序来源于 [kiko-now](https://github.com/AWEEKJ/kiko-now)。博客模板文件版权继承并遵循 MIT License。字体选择方案参考了 <http://cosx.org/>。
 
 ### 文章版权
 
@@ -130,7 +130,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
     ---
     ```
 
-    需要修改的是 title、date、tags、description(可有可无)。
+    需要修改的是 title、date、tags、description。
 
 2. 正文前面需要注明文章出处及作者，前后用 `---`符号与上下隔开。如下：
 

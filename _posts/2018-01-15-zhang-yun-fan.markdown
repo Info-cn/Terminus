@@ -7,7 +7,9 @@ tags: 广工大读书会事件
 description: 本以为此事已暂时平息，然而，番禺警方又将 4 名左翼青年列入网上追逃系统，誓要将读书会的参与者都打入牢狱。重获自由的张云帆，觉得无论如何不能再沉默。
 ---
 
-原文链接：[红色中国：我给人民的自白书](http://redchinacn.org/portal.php?mod=view&aid=34210)
+微信公众号已经删贴，备份来源：[红色中国：我给人民的自白书](http://redchinacn.org/portal.php?mod=view&aid=34210)
+
+---
 
 感谢北京大学钱理群、孔庆东、张千帆、李零、陈波、柴晓明、宋磊等多位师长和张耀祖、李民骐、汤敏等海内外北大校友；感谢黄纪苏、旷新年、祝东力、秦晖、于建嵘、徐友渔和宋阳标、陈洪涛、范景刚等 400 余位社会各界的老师、朋友们！
 
@@ -122,9 +124,8 @@ description: 本以为此事已暂时平息，然而，番禺警方又将 4 名�
 **他已做好准备！**
 
 ---
-
-![张云帆](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/01-zhang-yun-fan.png)
-
 张云帆
 
 2018 年 1 月 15 日
+
+![张云帆](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/01-zhang-yun-fan.png)

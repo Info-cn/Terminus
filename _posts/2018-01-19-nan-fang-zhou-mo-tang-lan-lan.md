@@ -7,7 +7,7 @@ tags: 汤兰兰
 description: 《南方周末》未出街稿
 ---
 
-稿件被毙后，南方周末记者王瑞锋 1 月 19 日刊载在个人公众号 “南方粥沫”
+稿件被毙后，南方周末记者王瑞锋 1 月 19 日刊载在个人公众号 “南方粥沫”，两日后被删除。
 ---
 
 这是一桩令人难以置信的强奸案。
@@ -24,12 +24,7 @@ description: 《南方周末》未出街稿
 
 本案由五大连池市公安局侦查终结。2018 年 1 月 17 日，五大连池市公安局政工室负责人表示，此案当年轰动一时，涉及亲属众多，是个敏感重大案件，警察办案肯定慎之又慎，“2008 年我们的法律程序很完备，肯定没有刑讯逼供。刑讯逼供只是一面之词，如果有的话检察院、法院肯定就提出来了。这个案件经过中院、高院审理，已经结案，我们办案是没有问题的。”
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/08-01.jpg" alt="示意图">
-<br/>
-示意图
-</div>
-<br />
+![示意图](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/08-01.jpg "center"){: .center-image}
 
 ### “监护人” 干妈报案
 

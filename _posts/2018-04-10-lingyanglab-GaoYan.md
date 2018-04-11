@@ -10,7 +10,7 @@ categories: Archive
 
 tags: 高岩之死
 
-description:
+description: 美好永远是脆弱的，而黑暗始终坚强、屹立不倒。——林奕含《房思琪的初恋乐园》
 
 ---
 

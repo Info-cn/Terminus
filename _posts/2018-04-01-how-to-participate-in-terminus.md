@@ -42,9 +42,7 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 1. 注册并登录 GitHub 帐号
 
-2. 访问端点星计划页面，点击进入 `_posts` 文件夹
-
-    [_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹里的 markdown 文档就是每篇备份文章。
+2. 访问[端点星计划](https://github.com/Info-cn/Terminus)GitHub页面，点击进入[_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹。
 
 3. 创建备份文章的 markdown 文档，有两种方式
 
@@ -115,10 +113,4 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 3. 正文小标题，使用 h2 或 h3。
 
-4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。图片居中
-
-    ```
-      ![]("图片链接" "center"){: .center-image}
-
-      <center>图片说明</center>
-    ```
+4. 图片使用 [https://sm.ms](https://sm.ms) 或 [https://imgur.com](https://imgur.com) 图床平台生成链接。

@@ -23,11 +23,11 @@ navigation:
   - name: 首页
     url: /
   - name: 标签
-    url: /tags
+    url: /tags.html
   - name: 存档
-    url: /archive
+    url: /archive.html
   - name: 分类
-    url: /categories
+    url: /categories.html
   - name: 订阅
     url: /atom.xml
   - name: 关于

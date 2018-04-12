@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  对抗遗忘|那些为坠亡者陶崇园发声的年轻人
+title:  对抗遗忘｜那些为坠亡者陶崇园发声的年轻人
 
 date:   2018-04-12
 
@@ -13,11 +13,13 @@ tags: 陶崇园之死
 description: 清明这天，武汉理工大学的广场上没有鲜花。但很多人在无尽的远方和内心，想起陶崇园。
 ---
 
-出自「有狐」[对抗遗忘|那些为坠亡者陶崇园发声的年轻人](https://mp.weixin.qq.com/s/eFwRXgmNPxF24ww7LjbRYQ)
+出自「有狐」[对抗遗忘，那些为坠亡者陶崇园发声的年轻人](https://mp.weixin.qq.com/s/eFwRXgmNPxF24ww7LjbRYQ)
 
-文 | 盛梦露 王正珺
+文：盛梦露 王正珺
 
-编辑 | 王珊
+编辑：王珊
+
+Wikipedia : [陶崇园事件](https://zh.wikipedia.org/wiki/%E9%99%B6%E5%B4%87%E5%9B%AD%E4%BA%8B%E4%BB%B6)
 
 ---
 

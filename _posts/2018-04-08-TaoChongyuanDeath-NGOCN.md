@@ -16,7 +16,9 @@ description: 清明假期的最后一天，武汉理工大学自杀学生陶崇�
 
 出自 NGOCN 编辑组：~~[陶崇园遗体昨日火化，武汉理工停止王攀研究生招生资格](https://mp.weixin.qq.com/s/oukyKkk7D6vEsN6vfGHrpQ)~~
 
-作者：阿七，编辑：小田
+作者：阿七
+
+编辑：小田
 
 Wikipedia : [陶崇园事件](https://zh.wikipedia.org/wiki/%E9%99%B6%E5%B4%87%E5%9B%AD%E4%BA%8B%E4%BB%B6)
 

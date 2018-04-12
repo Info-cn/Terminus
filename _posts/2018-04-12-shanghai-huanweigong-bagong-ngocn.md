@@ -16,11 +16,11 @@ description: 上个月底，上海市长宁区清道工的权益问题引发关�
 
 出自 NGOCN ：[上海清道工：只是想讨个说法](https://mp.weixin.qq.com/s/Di-jKvroiAuBtU5m-iv34g)
 
-作者 | 贾纪者
+作者：贾纪者
 
-编辑 | 小田
+编辑：小田
 
-核查 | 张天真
+核查：张天真
 
 ---
 

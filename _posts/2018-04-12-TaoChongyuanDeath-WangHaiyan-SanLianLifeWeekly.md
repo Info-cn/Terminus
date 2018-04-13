@@ -14,7 +14,7 @@ description: 3月26日早上，武汉理工大学自动化学院研究生三年�
 
 ---
 
-出自「三联生活周刊」：[武汉研究生坠楼事件：他曾反抗过](https://mp.weixin.qq.com/s/yKcXyClvCJ3gVv2pdJ1L7Q)
+出自「三联生活周刊」：~~[武汉研究生坠楼事件：他曾反抗过](https://mp.weixin.qq.com/s/yKcXyClvCJ3gVv2pdJ1L7Q)~~
 
 作者：王海燕
 

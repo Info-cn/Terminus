@@ -8,16 +8,10 @@
     <meta name="twitter:image" content="{{site.url}}{{ site.baseurl }}/images/404.jpg" />
     <meta name="twitter:domain" content="https://info-cn.github.io/Terminus/">
 
-    {% if page.description %}
-    <meta name="description" content="{{ page.description }}" />
-    <meta property="og:description" content="{{ page.description }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+
+    {% seo %}

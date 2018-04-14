@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  茶，还是校办的好喝。
+title:  茶，还是校办的好喝
 
 date:   2018-04-14
 

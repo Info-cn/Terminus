@@ -60,28 +60,20 @@ description: 一早起来点开朋友圈，发现已是哀鸿遍野，充斥着�
 
 而我们，无时无刻都不在经历着历史并参与在历史的生产之中。
 
-<font size="5" color="#bb0000">在这一刻，</font>
-
-<font size="5" color="#bb0000">谁不是“同性恋”？</font>
-
+<font size="5" color="#bb0000">在这一刻，</font><br />
+<font size="5" color="#bb0000">谁不是“同性恋”？</font><br />
 我们也许是天生的，又也许是后天的，
 
 我们也许只对一个性别产生欲望，又也许能对所有性别有欲望，
 
 我们也许是个同性恋、双/泛性恋、跨性别、酷儿，又也许是个“友直”或腐女……
 
-<font color="#bb0000">我想说的是，</font>
-
-<font color="#bb0000">不管是哪一种性别、性取向、性实践，</font>
-
-<font color="#bb0000">不管是天生的还是后天的，</font>
-
-<font color="#bb0000">只要不对他人造成伤害，</font>
-
-<font color="#bb0000">都没有高低好坏之分，</font>
-
-<font color="#bb0000">都有权力被看见、被尊重、被爱。</font>
-
+<font color="#bb0000">我想说的是，</font><br />
+<font color="#bb0000">不管是哪一种性别、性取向、性实践，</font><br />
+<font color="#bb0000">不管是天生的还是后天的，</font><br />
+<font color="#bb0000">只要不对他人造成伤害，</font><br />
+<font color="#bb0000">都没有高低好坏之分，</font><br />
+<font color="#bb0000">都有权力被看见、被尊重、被爱。</font><br />
 <font color="#bb0000">所以我邀请你，一起参与到历史的生产之中——</font>
 
 <br />

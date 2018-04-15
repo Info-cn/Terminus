@@ -10,13 +10,13 @@ categories: Archive
 
 tags: 微博清除同性恋内容
 
-description:
+description: 任何同志资讯都将无限期停更。
 
 ---
 
 源自微信公号「我的票圈」：~~[“今天同性恋封完了吗？” “没有”](https://mp.weixin.qq.com/s/tnDvW9g3p2Qr7fS4v3LA6Q)~~
 
-作者：票圈君 星星 天沐山  
+作者：票圈君 星星 天沐山
 
 ---
 

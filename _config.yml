@@ -31,7 +31,7 @@ navigation:
   - name: 订阅
     url: /atom.xml
   - name: 关于
-    url: /about
+    url: /about.html
 
 # Pagination
 paginate: 15

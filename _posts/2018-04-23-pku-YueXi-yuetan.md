@@ -8,7 +8,7 @@ date: 2018-04-23 11:00
 
 categories: Archive
 
-tags: 高岩之死约谈
+tags: 声援岳昕
 
 description: 北大学生申请信息公开，被学院约谈。
 

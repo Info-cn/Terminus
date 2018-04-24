@@ -14,7 +14,7 @@ description: 学校约谈指南
 
 ---
 
-原文来自微信公众号现代法学前沿，已 404。
+原文来自 ~~[微信公众号现代法学前沿](https://mp.weixin.qq.com/s/4luS4b6bWuL9ecCB4qZrEg)~~ ，已 404。
 
 作者：沈岿
 

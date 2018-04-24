@@ -10,7 +10,7 @@ categories: Archives
 
 tags: 声援岳昕
 
-description: 评论
+description: 我向来是不主张让学生出头的。这个国家人口众多，如果有些事情需要人走在前面，实在不该是一群孩子。
 
 ---
 

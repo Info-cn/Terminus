@@ -18,6 +18,8 @@ description: 她把歌词里的“Will I be pretty? Will I be rich?”改成了�
 
 作者：方可成 新闻实验室
 
+~~[微博原文已删除](https://weibo.com/ttarticle/p/show?id=2309404232268578222145)~~，freeweibo [查看](https://freeweibo.com/weibo/4232268581636979)
+
 ---
 
 ### 一

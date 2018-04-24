@@ -14,7 +14,7 @@ description: 她把歌词里的“Will I be pretty? Will I be rich?”改成了�
 
 ---
 
-信息源自「新闻实验室」：[Will we be equal? Will we be free?](https://mp.weixin.qq.com/s/t-e29zpMgjQKmPsxcFmDnQ)
+信息源自「新闻实验室」：~~[Will we be equal? Will we be free?](https://mp.weixin.qq.com/s/t-e29zpMgjQKmPsxcFmDnQ)~~
 
 作者：方可成 新闻实验室
 

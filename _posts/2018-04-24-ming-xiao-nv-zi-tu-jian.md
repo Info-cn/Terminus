@@ -6,7 +6,7 @@ title: 北大、厦大、名校女子图鉴
 
 date: 2018-04-24 15:35
 
-categories: Archives
+categories: Archive
 
 tags: 声援岳昕
 

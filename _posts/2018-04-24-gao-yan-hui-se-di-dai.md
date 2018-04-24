@@ -10,7 +10,7 @@ categories: Archive
 
 tags: 高岩之死
 
-description: 她把歌词里的“Will I be pretty? Will I be rich?”改成了“Will we be equal? Will we be free?”然后把里面的“该怎样就会怎样”，改成了“站起来去争取才能得到”。
+description: “我非常同情高岩和她的家人，但是当年她没有站出来保护自己。20年后，事情的过程都只能由旁人根据片段进行推理，无法还原事实过程。”徐华洁说。
 
 ---
 

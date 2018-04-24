@@ -8,7 +8,7 @@ date: 2018-04-24
 
 categories: Archive
 
-tags: 大字报 声援岳昕
+tags:声援岳昕
 
 description: 当我们谈论大字报时我们在谈论什么？
 

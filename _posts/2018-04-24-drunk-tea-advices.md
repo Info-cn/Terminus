@@ -6,7 +6,7 @@ title: 学校约谈指南（建议，第二稿）
 
 date: 2018-04-24 10:28
 
-categories: Archives
+categories: Archive
 
 tags: 声援岳昕
 

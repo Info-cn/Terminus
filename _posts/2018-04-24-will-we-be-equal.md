@@ -10,7 +10,7 @@ categories: Archive
 
 tags: 声援岳昕
 
-description: 描述木田无花
+description: 她把歌词里的“Will I be pretty? Will I be rich?”改成了“Will we be equal? Will we be free?”然后把里面的“该怎样就会怎样”，改成了“站起来去争取才能得到”。
 
 ---
 

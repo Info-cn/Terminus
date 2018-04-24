@@ -14,7 +14,11 @@ description: 学校约谈指南
 
 ---
 
-文章来自Zine：[学校约谈指南（建议，第二稿）](https://zine.la/article/1e02ef68471f11e8860b00163e0c1eb6)
+原文来自微信公众号现代法学前沿，已 404。
+
+作者：沈岿
+
+二次复活地址 Zine：[学校约谈指南（建议，第二稿）](https://zine.la/article/1e02ef68471f11e8860b00163e0c1eb6)
 
 ---
 

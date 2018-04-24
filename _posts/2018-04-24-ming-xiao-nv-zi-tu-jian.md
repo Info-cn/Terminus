@@ -14,7 +14,7 @@ description: 打南边来了个姑娘，手里提着个“支那”，打北边�
 
 ---
 
-文章来自腰线：[北大、厦大、名校女子图鉴](https://mp.weixin.qq.com/s/HGLtXThz4B57H5-M-gW-UQ)
+文章来自腰线：~~[北大、厦大、名校女子图鉴](https://mp.weixin.qq.com/s/HGLtXThz4B57H5-M-gW-UQ)~~
 
 ---
 

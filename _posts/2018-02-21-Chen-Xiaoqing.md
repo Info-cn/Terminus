@@ -3,7 +3,7 @@ layout: post
 title:  "陈晓卿：我的人生远不止有《舌尖》"
 date:   2018-02-22 09:47 +0800
 categories: Archive
-tags: 对话
+tags: 舌尖上的中国
 description: 舌尖 3 评价扑街，很多人开始怀念陈晓卿。
 ---
 

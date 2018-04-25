@@ -3,14 +3,13 @@ layout: post
 title: 岳昕才是北大的荣光 而北大配不上岳昕
 date: 2018-04-24
 categories: Archive
-tags:
-- 声援岳昕
+tags: 声援岳昕
 description: 昨天，一名北大14级的女生在朋友圈刷屏。她叫岳昕，一名难得没有被教育污染的新青年。
 ---
 
 作者：唐映红
 
-来源：[中国数字时代](https://chinadigitaltimes.net/chinese/2018/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B2%B3%E6%98%95%E6%89%8D%E6%98%AF%E5%8C%97%E5%A4%A7%E7%9A%84%E8%8D%A3%E5%85%89-%E8%80%8C%E5%8C%97%E5%A4%A7%E9%85%8D%E4%B8%8D%E4%B8%8A%E5%B2%B3%E6%98%95/)
+来源：[中国数字时代](https://chinadigitaltimes.net/chinese/2018/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B2%B3%E6%98%95%E6%89%8D%E6%98%AF%E5%8C%97%E5%A4%A7%E7%9A%84%E8%8D%A3%E5%85%89-%E8%80%8C%E5%8C%97%E5%A4%A7%E9%85%8D%E4%B8%8D%E4%B8%8A%E5%B2%B3%E6%98%95/) ，~~[唐映红的公号](https://mp.weixin.qq.com/s?__biz=MjM5NzYzNzI5NA==&mid=502879452&idx=1&sn=cc52320f21554efe44892eb6c4a2f7cb&chksm=3edb091d09ac800ba2a6cd1189faa2f5ef8dfb4286722957a115c4a5744189b9d2ef0b4bc159&mpshare=1&scene=1&srcid=04258DkLCOTy81n4G5r2ubXK#rd)~~
 
 ---
 

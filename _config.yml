@@ -67,6 +67,15 @@ url: https://info-cn.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: /Terminus
 
+#-------------------------------------------------------------------------------
+# p2p-Terminus 设置方法
+#
+## 注释掉 baseurl 后的 /Terminus，成为 # /Terminus
+## 安装 jeklly，本地编译
+## 下载并打开 Beaker 浏览器（https://beakerbrowser.com/docs/install/ ）
+## 在 Beaker 内 Creaat new, from folder，将 _site 文件夹作为网站 folder
+## dat.json 为网站信息
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

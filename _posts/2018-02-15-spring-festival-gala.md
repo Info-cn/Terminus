@@ -11,10 +11,7 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 >
 > 作者：大兔，编辑：小蛮妖
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-00.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-00.jpg](https://i.loli.net/2018/04/26/5ae1bf9d97a17.jpg)
 
 > 不平于自己的民族被白人社会歧视，但同时也骄傲地歧视其他种族。
 
@@ -22,45 +19,27 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 比如小品一开始，西装革履的郑凯，在假狮子和部落装扮的非洲人里，大跳拉丁歌手夏奇拉的《waka waka》。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-01.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-01.jpg](https://i.loli.net/2018/04/26/5ae1bf9dc4a49.jpg)
 
 非洲姑娘自豪地宣称：当上了乘务员，身份不同了，美得不行了，嫁个高富帅，这辈子赢了。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-02.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-02.jpg](https://i.loli.net/2018/04/26/5ae1bf9d99a4c.jpg)
 
 中国人（娄乃鸣饰）戴上假屁股，说着翻译腔演非洲妈妈。试想，如果换成白人涂黑自己的脸，用夸张的口音说 “我爱美国”，还不被全世界喷死。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-03.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-03.jpg](https://i.loli.net/2018/04/26/5ae1bf9d98d01.jpg)
 
 仔细看，舞台上的猴子其实是黑人扮的……
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-04.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-04.jpg](https://i.loli.net/2018/04/26/5ae1bf9dc6497.jpg)
 
 大兵一上来骑着长颈鹿，说是非洲的共享单车。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-05.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-05.jpg](https://i.loli.net/2018/04/26/5ae1bf9dc2f9d.jpg)
 
 最后，姑娘自豪地说：我要去中国留学，我要跟中国人一样，撸起袖子加油干，世界全民都点赞。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-06.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-06.jpg](https://i.loli.net/2018/04/26/5ae1bf9dc16be.jpg)
 
 明明是中国人喜欢逼婚，咋就变成非洲妈妈逼婚，中国男人去解救了？
 
@@ -68,17 +47,11 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 这小品公然的种族歧并不是偶发。实际上，2016 年 5 月，一则中国洗涤剂广告，因为涉嫌种族歧视，引起了国内外网友的争议。这则广告中，一位粉刷匠黑人男性欲与一位亚洲女性亲热，亚洲女性往他口里塞了一颗洗涤剂并把他塞进洗衣机内。片刻，他 “变成” 了一位皮肤白皙的亚洲男性闪亮登场。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-07.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-07.jpg](https://i.loli.net/2018/04/26/5ae1bf9d6786a.jpg)
 
 这则广告被非常广泛地传播。不少中外网友非常愤怒，用各种讽刺的吐槽指出其充满了种族歧视。而有的网友则爆料其完全抄袭了一则意大利固色洗涤剂广告。在这则意大利广告中，一位骨瘦如柴的白人男性欲与白人女性亲热，白人女性往他口里塞了一颗洗涤剂并把他塞进洗衣机内。片刻，他 “变成” 了一位黑皮肤的精壮男性闪亮登场。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-08.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-08.jpg](https://i.loli.net/2018/04/26/5ae1bf9d3bf5e.jpg)
 
 这两则广告的明显区别在于：中国广告在把黑人洗黄，意大利广告在把白人洗黑。不少网友觉得意大利洗涤剂广告是更非歧视的，因为它宣称 “coloured is better”。
 
@@ -96,10 +69,7 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 除去大部分敏锐地感知到上述广告在明显地种族歧视的网友外，也有不少中国网友认为这不是种族歧视，这是你们玻璃心瞎 bb，中国从来不歧视黑人，亚洲人被白人歧视欺负的时候咋不见你们出来愤怒？
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-09.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-09.jpg](https://i.loli.net/2018/04/26/5ae1c04124710.jpg)
 
 我就知道即使 “歧视” 的国际定义被倡导者们宣传了一千万遍，还是有很多人不以为然的人。就像 “根本没有什么性别歧视” 一样，反对种族歧视的行动也常常被戴上 “作秀”、“事儿精” 的帽子。
 
@@ -109,10 +79,7 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 不少声称 “这不是种族歧视” 的中国人，其实是认同种族歧视的。一方面，他们不平于自己的民族被白人社会歧视，另一方面，他们却也歧视其他种族，如非洲人、印度人。他们在看见中国人在国外地铁被打、奥斯卡歧视亚洲人的时候，往往非常愤怒并不远万里翻墙到脸书上骂脏话。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-10.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-10.jpg](https://i.loli.net/2018/04/26/5ae1c04064a84.jpg)
 
 但是，他们并不知道即使在当代，世界上有多少不同种族的人，在为种族平等而抗争，有的因此被辞退，有的因此进局子，有的甚至流血牺牲。有时候即使他们了解这些平权运动的存在，即使这些平权运动与自己的种族相关，他们也一副事不关已的样子，认为只要通过个人奋斗获得成就，就能融入白人上流社会，不再受到歧视——他们，应在江湖上占有 “巨婴键盘侠” 的称号。
 
@@ -130,15 +97,9 @@ description: 不平于自己的民族被白人社会歧视，但同时也骄傲�
 
 文末福利：土逗祝大家 “大年初一，洋洋喜气”。
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-11.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-11.jpg](https://i.loli.net/2018/04/26/5ae1c04125de9.jpg)
 
 > 本文首发于土逗公社
 > 转载请联系土逗获得内容授权
 
-<div style="text-align:center">
-<img src="https://github.com/Info-cn/Terminus/raw/master/assets/images/02-15-gala-12.jpg" alt="">
-</div>
-<br/>
+![02-15-gala-12.gif](https://i.loli.net/2018/04/26/5ae1c0409145c.gif)

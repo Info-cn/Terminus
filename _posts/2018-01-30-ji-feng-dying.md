@@ -13,7 +13,7 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 17:30 分书店断电，爱书人聚在书店里，打开手电、点燃蜡烛，同书店做最后的告别。
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-01.jpg)
+![06-01.jpg](https://i.loli.net/2018/04/26/5ae1bd7c0ace9.jpg)
 
 最辉煌的时候，它在上海有 8 家店。明天，上海的最后一家门店也将关闭。
 
@@ -29,11 +29,11 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 坚持更新公众号文章，虽然换来了更多次的删文：
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-02.jpg)
+![06-02.jpg](https://i.loli.net/2018/04/26/5ae1bd7c03266.jpg)
 
 运营所有发声渠道，结果豆瓣小站、账号和小组全部消失：
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-03.jpg)
+![06-03.jpg](https://i.loli.net/2018/04/26/5ae1bd7ba6f06.jpg)
 
 我们采访了经历这一切的书店店员，也是最后一位入职的店员。2017 年 3 月，即将研究生毕业的她坐在书店负责人于淼面前。
 
@@ -51,7 +51,7 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 4 月 23 日，以为书店 20 周年庆生的名义，书店现在的负责人、总经理于淼和书店创始人严搏非一起拉下倒计时的玻璃墙。
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-04.jpg)
+![06-04.jpg](https://i.loli.net/2018/04/26/5ae1bd7bd18fc.jpg)
 
 这一天，于淼在一个类似关店的新闻发布会上说：
 
@@ -61,7 +61,7 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 关于书店关闭的原因很简单：
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-05.jpg)
+![06-05.jpg](https://i.loli.net/2018/04/26/5ae1bd7ba68fe.jpg)
 
 大概就是房东自家也需要空间，要收回房子自用。
 
@@ -131,7 +131,7 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 在书店倒计时的 283 天里，读者留言贴在书店进门处，这些明信片上说，他们把书店当成家，既然是家，无论开在哪儿，有天我们都还会回家去。
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-06.jpg)
+![06-06.jpg](https://i.loli.net/2018/04/26/5ae1bd7c37913.jpg)
 
 有读者说：“我觉得蛮伤心的，有一千个理由要让它搬，也没有一个理由让它关。书店在我们这个社会本来就太缺少了。这么稀罕的东西，还要告别，我眼泪都要掉下来。太伤心了。物以稀为贵。现在变成了物以稀为贱。这么大的国家，十几亿人，那么几家好的书店，还要关。如果真是有意识地关这样的店，我觉得是文明的倒退。”
 
@@ -139,11 +139,11 @@ description: 在 283 天前，这家书店接到关店通知。今天，是他�
 
 华师大的政治学教授说：“上海为什么不能够容下一间书店？我的感受是非常遗憾，是感到非常悲哀的。”
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-07.jpg)
+![06-07.jpg](https://i.loli.net/2018/04/26/5ae1bd7bc2b6b.jpg)
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-08.jpg)
+![06-08.jpg](https://i.loli.net/2018/04/26/5ae1bd7ba3e98.jpg)
 
-![（图片来自网络）](https://github.com/Info-cn/Terminus/raw/master/assets/images/06-09.jpg)
+![06-09.jpg](https://i.loli.net/2018/04/26/5ae1bd7b45c3d.jpg)
 
 其实这家书店并没有离开我们，它的新店开在济南，我们不必如此悲戚戚的。它从 “独立的文化立场，自由的思想表达” 变成“致敬崇尚人文和科学的人”，中和了锋芒，更成熟，也更包容了。
 

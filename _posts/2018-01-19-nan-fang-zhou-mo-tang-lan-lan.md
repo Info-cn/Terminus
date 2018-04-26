@@ -24,7 +24,7 @@ description: 《南方周末》未出街稿
 
 本案由五大连池市公安局侦查终结。2018 年 1 月 17 日，五大连池市公安局政工室负责人表示，此案当年轰动一时，涉及亲属众多，是个敏感重大案件，警察办案肯定慎之又慎，“2008 年我们的法律程序很完备，肯定没有刑讯逼供。刑讯逼供只是一面之词，如果有的话检察院、法院肯定就提出来了。这个案件经过中院、高院审理，已经结案，我们办案是没有问题的。”
 
-![示意图](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/08-01.jpg "center"){: .center-image}
+![示意图](https://i.loli.net/2018/04/26/5ae1b9430be57.jpg)
 
 ### “监护人” 干妈报案
 
@@ -255,7 +255,7 @@ description: 《南方周末》未出街稿
 对于汤某某的下落，五大连池市公安局政工室负责人表示，市里曾要求把小女孩保护起来，我们公安局专门派人到学校轮流保护她，但 “后期小女孩乱说，有的没有的也说，后来又要钱，不给钱就告你，村民就联合告小女孩，后来孩子就跑了，不知道去哪了。”
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/08-02.jpg" alt="公众号截图">
+<img src="https://i.loli.net/2018/04/26/5ae1b965cb500.jpg" alt="公众号截图">
 <br/>
 公众号截图
 </div>

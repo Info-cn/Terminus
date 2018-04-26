@@ -11,7 +11,7 @@ description: 我们即使做不到振臂一呼，以笔为旗与懦弱卑微做�
 
 ---
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/01.jpg "center"){: .center-image}
+![01.jpg](https://i.loli.net/2018/04/26/5ae1bb5e88a78.jpg)
 
 <center>蔡元培先生</center>
 
@@ -19,7 +19,7 @@ description: 我们即使做不到振臂一呼，以笔为旗与懦弱卑微做�
 
 早年的元培先生为了反抗清朝，一介书生却豁出命来组织训练暗杀团，意图刺杀清朝的官员。在后面的几十年里，他只认真理，不畏强权，在北大校长的任上曾先后八次辞职以示抗议：1917年抗议张勋复辟清朝而辞职；1919年5月营救被捕学生而辞职；1919年底和1920年1月支持北京市教职员为薪酬抗议政府而辞职；1922年8月/9月两次为政府侮辱校长/拖欠教育经费而辞职；1923年抗议教育总长践踏人权和司法独立而辞职；1926年抗议政府镇压学生而辞职。 从这个意义上看，元培先生的“兼容并包，思想自由”是付出了极大的个人牺牲才使得当时的北大空前活跃—既有全盘西化的胡适、也有追求共产主义的陈独秀李大钊毛泽东、甚至还有天天嚷着复辟清朝的拖辫子的辜鸿铭。各种思想在这里产生和碰撞。
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/li-chen-jian/02.jpg "center"){: .center-image}
+![02.jpg](https://i.loli.net/2018/04/26/5ae1bb5e8550d.jpg)
 
 <center>蔡元培先生</center>
 

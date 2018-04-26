@@ -128,4 +128,4 @@ description: 本以为此事已暂时平息，然而，番禺警方又将 4 名�
 
 2018 年 1 月 15 日
 
-![张云帆](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/01-zhang-yun-fan.png)
+![张云帆](https://i.loli.net/2018/04/26/5ae1b8fdea5f0.png)

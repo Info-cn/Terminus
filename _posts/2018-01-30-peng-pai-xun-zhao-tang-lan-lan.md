@@ -55,7 +55,8 @@ description: 因为这篇文章，澎湃被骂惨了。
 
 付建称，2018 年 1 月 30 日下午，最高检两位工作人员约见了该案律师及两位当事人，双方就申诉一事进行了两个多小时的面谈。律师随后将会提交进一步的证据材料。
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-01.jpg "center"){: .center-image}
+![07-01.jpg](https://i.loli.net/2018/04/26/5ae1b99d58dbc.jpg)
+
 <center>2018 年 1 月，汤玉梅向最高院第二巡回法庭为丈夫刘长海递交申诉书。<br/>刘长海至今拒绝减刑，坚持申诉。受访者供图。</center>
 
 ### 少女的控诉：被亲生父母性侵，请干爸干妈申冤
@@ -82,7 +83,8 @@ description: 因为这篇文章，澎湃被骂惨了。
 
 这封控告信亦被法院采纳。
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-02.jpg "center"){: .center-image}
+![07-02.jpg](https://i.loli.net/2018/04/26/5ae1b99d58821.jpg)
+
 <center>汤兰兰交给警方的举报信。受访者供图</center>
 
 “王凤朝和李忠云何时得知被害人被强奸，二人说法不一。” 汤家的申诉律师付建说。在他看来，“到底是如何引发的报案? 这正是此案的要点所在。”
@@ -111,7 +113,7 @@ description: 因为这篇文章，澎湃被骂惨了。
 
 物证提取笔录显示，报案后的第 19 天，警方在万秀玲家中，从她衣服口袋里提取到一份 B 超单，姓名、日期、医院与上述相同。但诊断结果为，“子宫内有胎儿症状。”
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-03.jpg "center"){: .center-image}
+![07-03.jpg](https://i.loli.net/2018/04/26/5ae1b99d289e0.jpg)
 
 <center>案卷中收录的其中一份 B 超单。（手写部分为律师阅卷时批注）受访者供图</center>
 
@@ -141,7 +143,7 @@ description: 因为这篇文章，澎湃被骂惨了。
 
 2018 年 1 月 28 日，澎湃新闻联系到了当年该案的侦办人员之一贾德春以核实上述说法，对方拒绝接受采访。
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-04.jpg "center"){: .center-image}
+![07-04.jpg](https://i.loli.net/2018/04/26/5ae1b99d25d60.jpg)
 
 <center>2006 年春天，万秀玲 (左) 抱着小儿子与女儿汤兰兰 (右) 合影。<br/>当日是汤兰兰的叔叔汤继彬的婚礼，两年后，汤兰兰向公安举报汤继彬对其强奸。<br/>受访者供图</center>
 
@@ -211,7 +213,7 @@ description: 因为这篇文章，澎湃被骂惨了。
 
 现在汤玉的户口已从农业户变为城镇户，“这是户政科特批的”，王警官说，“为什么要改名字? 为什么要从小兴安迁这来? 她的一切都是她找户政科安排的。”
 
-![](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/07-05.jpg "center"){: .center-image}
+![07-05.jpg](https://i.loli.net/2018/04/26/5ae1b99d275f0.jpg)
 
 <center>青山派出所提供的汤玉的户籍信息。澎湃新闻记者 王乐 图</center>
 

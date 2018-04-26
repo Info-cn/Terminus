@@ -15,7 +15,7 @@ description: 我是《张云帆：我给人民的自白书》中的孙婷婷，�
 
 **我是孙婷婷，我要站出来！**
 
-![孙婷婷](https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/02-sun-ting-ting.png)
+![孙婷婷](https://i.loli.net/2018/04/26/5ae1b919a02f0.png)
 
 2017 年的前十一个月，生活与工作都像往常一样，宁静而开怀，白天筹划着一场场为农民工举办的公益活动，晚上去跟广州大学城学校的后勤工友们一起开心地跳着广场舞。只是没有想到，12 月 8 号晚上，一群警察闯进我的住所，让 2017 年的最后一个月变成了一场噩梦。
 

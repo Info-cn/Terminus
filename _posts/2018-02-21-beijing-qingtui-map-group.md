@@ -11,10 +11,7 @@ description: 北京市驱赶外地居民期间，一群志愿者自发临时组�
 >
 > 作者：刘伟伟
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-01-qingtui.jpg" alt="topic img">
-<br/>
-</div>
+![11-01-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baaa7577f.jpg)
 
 **2017 年 12 月 31 日，我在深圳遇到肖泳女士。在和她只言片语的闲谈之中，我了解到她作为志愿者之一，参与了 “清退预警地图” 项目中 “信息组” 的工作。北京市驱赶外地居民期间，一群志愿者自发临时组建了数个网络群，来传递现场消息、记录资料档案，以及采取现实行动。在深圳的碰面，我因为各种原因错失了跟她进一步交谈的机会。2018 年 2 月 13 日，我从深圳赶回北京，在百子湾路的某处居所跟她又谈了谈这个事。我特别好奇他们项目后期被迫中断的遭遇。**
 
@@ -22,12 +19,7 @@ description: 北京市驱赶外地居民期间，一群志愿者自发临时组�
 
 ---
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-02-qingtui.jpg" alt="topic img">
-<br/>
-肖泳 12 月 5 日在新建村  拍摄：马蒂亚
-</div>
-<br />
+![11-02-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baab9a347.jpg)
 
 ---
 
@@ -57,62 +49,22 @@ description: 北京市驱赶外地居民期间，一群志愿者自发临时组�
 
 （开始）
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-03-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-03-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baacc1047.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-04-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-04-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baadb73d4.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-05-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-05-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baac5e3e5.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-06-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-06-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baadb23f6.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-07-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-07-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baae76376.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-08-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-08-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baaea2571.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-09-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-09-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baae7d95a.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-10-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-10-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1baaedde6f.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-11-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-11-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1bb2d1e730.jpg)
 
-<div style="text-align:center">
-<img src="https://raw.githubusercontent.com/Info-cn/Terminus/master/assets/images/bjquzhu/11-12-qingtui.jpg" alt="对话">
-<br/>
-</div>
-<br />
+![11-12-qingtui.jpg](https://i.loli.net/2018/04/26/5ae1bb2cbc7a4.jpg)

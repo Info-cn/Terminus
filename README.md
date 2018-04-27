@@ -11,7 +11,7 @@
 
 ### 文章版权
 
-[_posts](https://github.com/Info-cn/Terminus/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Info-cn/Terminus/issues)，我们将在第一时间予以删除。
+[_posts](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/_posts) 文件夹内的文章版权归原作者所有，本站只是防止微信、微博等平台删贴，出于善意原则。如果侵犯了您的权益，请提交 [issue](https://github.com/Terminus2049/Terminus2049.github.io/issues)，我们将在第一时间予以删除。
 
 ## 端点星计划是什么
 
@@ -19,6 +19,22 @@ Terminus 端点星计划，是在 GitHub 开放平台搭建的一个站点，用
 
 ## 如何参与端点星计划
 
-详见
+详见置顶文章 [如何参与端点星计划](https://terminus2049.github.io/sticky/2018/04/01/how-to-participate-in-terminus.html)
 
-<https://terminus2049.github.io/sticky/2018/04/01/how-to-participate-in-terminus.html>
+## 致谢
+
+### 开源程序
+
+- 博客模板 [kiko-now](https://github.com/AWEEKJ/kiko-now)
+- 字体方案 <http://cosx.org>
+- 分享组件 [Share.js](https://github.com/overtrue/share.js)
+- [GitHub Corners](http://tholman.com/github-corners/)
+- [pangu.js](https://github.com/vinta/pangu.js)
+
+### 贡献者
+
+@cmmei @Tsai1993 @b614103080 @IchiroArisugawa @DarioMeeker
+
+特别致谢 [IchiroArisugawa](https://github.com/IchiroArisugawa) 设计的好看 [LOGO](https://github.com/Terminus2049/Terminus2049.github.io/tree/master/images)。
+
+具体贡献可在 [这里](https://github.com/Info-cn/Terminus/graphs/contributors) 和 [这里](https://github.com/Terminus2049/Terminus2049.github.io/graphs/contributors) 查看。

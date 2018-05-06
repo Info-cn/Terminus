@@ -1,7 +1,7 @@
 ## Terminus
 离银河中心最远的行星。
 
-**项目已迁移到 <https://github.com/Terminus2049/Terminus2049.github.io>，新项目可直连，此处仅为存档。**
+**项目已迁移到 <https://github.com/Terminus2049/Terminus2049.github.io>，** ~~新项目可直连~~，此处仅为存档。
 
 ## 版权
 

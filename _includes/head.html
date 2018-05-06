@@ -4,9 +4,9 @@
   <link rel="canonical" href="https://terminus2049.github.io/" />
 
   <script LANGUAGE="JavaScript">
-    <!--
-    window.location="https://terminus2049.github.io/";
-    // -->
+      if (window.location.href.indexOf('https://info-cn.github.io') === 0) {
+        window.location.href = 'https://terminus2049.github.io{{ page.url }}';
+      }
   </script>
 
   {% include meta.html %}
